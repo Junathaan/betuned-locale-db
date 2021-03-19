@@ -1,0 +1,92 @@
+{
+  "applicants": [
+    {
+      "id": 0,
+      "cognitoId": 0,
+      "consents": {
+        "applicantNewsletter": true
+      },
+      "additionalInformation": "Additional Information",
+      "workExperiences": [
+        {
+          "description": "First experience",
+          "rank": 0
+        }
+      ],
+      "currentPosition": {
+        "id": 0,
+        "name": "Senior Teck Lid"
+      }
+    }
+  ],
+
+  "dreamJobs": [
+    {
+      "locations": [
+        {
+          "geoId": "string",
+          "name": "Bruxelles",
+          "rank": 0
+        }
+      ],
+      "contracts": [
+        {
+          "type": "freelance",
+          "salary": {
+            "min": 0,
+            "max": 0
+          }
+        }
+      ],
+      "availability": "1 mois",
+      "availabilityDate": "2021-03-11",
+      "positions": [
+        {
+          "position": {
+            "id": 0,
+            "name": "Senior Copper Lid"
+          },
+          "rank": 0
+        }
+      ]
+    }
+  ],
+
+  "favorites": {
+    "jobs": [
+      {
+        "id": 0,
+        "name": "Super job",
+        "company": "Super company",
+        "url": "/job/id"
+      },
+      {
+        "id": 1,
+        "name": "Super job 1",
+        "company": "Super company",
+        "url": "/job/id"
+      },
+      {
+        "id": 2,
+        "name": "Super job 2",
+        "company": "Super company",
+        "url": "/job/id"
+      }
+    ],
+    "companies": [
+      {
+        "id": 0,
+        "logo": "https://www.betuned.be/packs/media/branding/logo-719e5193.png",
+        "name": "Super company",
+        "url": "/company/id"
+      }
+    ]
+  },
+
+  "positions": [
+    {
+      "id": 0,
+      "name": "Senior Copper Lid"
+    }
+  ]
+}
